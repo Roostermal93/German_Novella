@@ -1,8 +1,15 @@
 {
-    "count": 4,
+    "count": 7,
     "next": null,
     "previous": null,
     "results": [
+        {
+            "id": "ea477d00-34f4-4e71-b347-7b8ebe2c0684",
+            "collectionId": "German",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/German/ea477d00-34f4-4e71-b347-7b8ebe2c0684_de_Male.mp4"
+        },
         {
             "id": "2cda2eea-3fe2-4077-96c5-e5dbe5465249",
             "collectionId": "German",
@@ -16,6 +23,20 @@
             "type": "Novella",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/German/edbea546-8832-4a8d-b5e0-173a4b22c9bb_de_Male.mp4"
+        },
+        {
+            "id": "8195524a-beea-492b-afaa-5bf34fd61a1a",
+            "collectionId": "German",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/German/8195524a-beea-492b-afaa-5bf34fd61a1a_de_Female.mp4"
+        },
+        {
+            "id": "968edbe1-9fe8-46d5-8291-2262a098f3cd",
+            "collectionId": "German",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/German/968edbe1-9fe8-46d5-8291-2262a098f3cd_de_Male.mp4"
         },
         {
             "id": "3aa3524d-3155-4e3f-b464-521bb94e1c39",
